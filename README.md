@@ -9,7 +9,7 @@ Welcome to my GitHub profile! Here you'll find projects and repositories that sh
 - **Data Science Tools**: Power BI, Pandas
 
 ## 🚀 Projects
--- **[SnapMart](https://github.com/Basmaaashraf/Graduation-Project)**: SnapMart is a Flutter-based mobile application that allows users to capture an image of an item and search for the nearest stores that sell the same or similar items. It also provides a vendor portal for store owners to add and manage their items.
+- **[SnapMart](https://github.com/Basmaaashraf/Graduation-Project)**: SnapMart is a Flutter-based mobile application that allows users to capture an image of an item and search for the nearest stores that sell the same or similar items. It also provides a vendor portal for store owners to add and manage their items.
 -  **[VGsales Analysis](https://github.com/Basmaaashraf/Data-Science-Project)**: A data science project where I analyze video game sales data and create visualizations using Python and Power BI.
 
 
