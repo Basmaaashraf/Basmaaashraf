@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! Here you'll find projects and repositories that showcase my journey and passion for software development and more.
 
 ## 🛠 My Skills
-- **Languages**: Python, Java, Dart, HTML , CSS ,JavaScript ,c++ , c# and more
+- **Languages**: Python, Java, Dart, HTML, CSS, JavaScript, c++, c# and more
 - **Frameworks**: Flutter, Spring Boot
 - **DevOps**: Docker, Kubernetes, Terraform, AWS
 - **Data Science Tools**: Power BI, Pandas
