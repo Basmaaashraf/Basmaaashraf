@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here you'll find projects and repositories that sh
 
 ## 🛠 My Skills
 - **Languages**: Python, Java, Dart, HTML, CSS, JavaScript, C++, C#, SQL and more
-- **Frameworks**: Flutter, Spring Boot
+- **Frameworks**: Flutter, Spring Boot, Vue.js
 - **DevOps**: Docker, Kubernetes, Terraform, AWS
 - **Data Science Tools**: Power BI, Pandas
 
